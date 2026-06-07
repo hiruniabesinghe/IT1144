@@ -1,0 +1,33 @@
+body{
+	background-color:white;
+}
+
+header{
+	color:#F1F5F9 ;
+boarder-style:solid;
+background-color:blue;
+}
+h2{
+	color:#1E3A8A;
+	
+}
+div{
+	border-style:box-decoration-break;
+	border-radious:20px;
+	padding-left:30px;
+	padding-right:30px;
+	margin:20px;
+box-shadow:20px;border-color:blue;}
+
+	button{
+		background-color:#1E3A;
+		color: #F9FAFB;
+		padding:0px;
+		boarder-style:solid;
+		
+	}
+	footer{
+		background-color: #1E3A8A;
+		color:#F9FAFB;
+
+	}
